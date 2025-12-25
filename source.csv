@@ -1,0 +1,30 @@
+company,source,title,review,date,rating,reviewer
+hubspot,g2,Excellent CRM,Very intuitive interface and smooth onboarding,2023-11-12,5/5,John D
+hubspot,g2,Good integrations,Connects well with marketing tools,2024-01-05,4/5,Alice M
+hubspot,g2,Needs reporting upgrades,Custom reports are limited,2024-03-22,3/5,Rahul K
+hubspot,capterra,Easy to adopt,Minimal training required,2023-12-18,5/5,Meera S
+hubspot,capterra,Support is helpful,Quick resolution from support team,2024-02-09,4/5,Ankit P
+zoho-crm,capterra,Affordable CRM,Best option for small businesses,2023-11-20,4/5,Priya R
+zoho-crm,capterra,Automation is basic,Lacks advanced workflows,2024-01-14,3/5,Neha T
+zoho-crm,g2,Good feature set,Covers most CRM needs,2024-03-03,4/5,Arjun V
+jira,g2,Excellent for agile,Sprints and boards are very powerful,2023-12-10,5/5,Ankit P
+jira,g2,Too complex initially,Steep learning curve for new users,2024-02-02,3/5,Ravi K
+jira,capterra,Highly configurable,Custom workflows are flexible,2024-03-19,5/5,Divya S
+asana,capterra,Clean interface,Simple task management experience,2023-11-25,5/5,Monika R
+asana,capterra,Lacks analytics,Reporting features are weak,2024-01-30,3/5,Ashok M
+trello,g2,Great visual boards,Kanban style is very helpful,2023-12-05,4/5,Kunal J
+trello,g2,Not scalable,Hard to manage large projects,2024-02-17,3/5,Pooja N
+mailchimp,capterra,Strong automation,Email workflows are powerful,2024-03-08,5/5,Sunil B
+mailchimp,capterra,Price increases fast,Costs grow with contact list,2024-01-22,3/5,Kiran L
+intercom,trustradius,Excellent live chat,Customers respond better now,2023-12-28,5/5,Meera R
+intercom,trustradius,Automation saves time,Bots handle common queries well,2024-02-15,4/5,Sameer G
+freshdesk,g2,Good ticketing,Easy to track and resolve issues,2024-01-11,4/5,Nisha T
+freshdesk,g2,Mobile app is slow,Needs better mobile performance,2023-11-18,3/5,Vikram S
+github,trustradius,Great collaboration,Perfect for team development,2024-02-04,5/5,Harish P
+github,trustradius,Hard for beginners,Learning curve is steep,2023-12-14,3/5,Deepa N
+quickbooks-online,capterra,Useful accounting,Invoicing and tracking are simple,2024-03-01,4/5,Rajesh K
+quickbooks-online,capterra,Interface cluttered,Too many menus on screen,2024-01-09,3/5,Manoj R
+salesforce-sales-cloud,g2,Enterprise grade,Highly customizable CRM,2024-03-25,5/5,Sneha P
+salesforce-sales-cloud,g2,Too expensive,Not ideal for small businesses,2024-01-18,3/5,Amit S
+clickup,g2,All in one workspace,Tasks docs and goals in one place,2023-12-20,5/5,Varun T
+clickup,g2,Performance issues,Occasional lag on large projects,2024-02-11,3/5,Neel K
