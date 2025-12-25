@@ -31,11 +31,6 @@ Outputs reviews into a clean and structured reviews.json file.
 
 Handles invalid or out-of-range inputs gracefully.
 
-
-## Installation
-```bash
-pip install -r requirements.txt
-
 # Usage
 
 Run the script using the following command format:
@@ -44,4 +39,13 @@ python scraper.py --company <company> --start <YYYY-MM-DD> --end <YYYY-MM-DD> --
 
 # Example:
 python scraper.py --company hubspot --start 2023-12-01 --end 2024-03-31 --source g2
+
+
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+
+
 
