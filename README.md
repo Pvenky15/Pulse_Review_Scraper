@@ -34,18 +34,20 @@ Handles invalid or out-of-range inputs gracefully.
 # Usage
 
 Run the script using the following command format:
-
+```bash
 python scraper.py --company <company> --start <YYYY-MM-DD> --end <YYYY-MM-DD> --source <source>
-
+```
 # Example:
+```bash
 python scraper.py --company hubspot --start 2023-12-01 --end 2024-03-31 --source g2
-
+```
 
 
 ## Installation
 
 ```bash
 pip install -r requirements.txt
+
 
 
 
